@@ -9,4 +9,4 @@ title: Veln's General Goods
 Dry goods, tools, and odds and ends.
 
 **Who's here**
-- [Casper Veln](../../NPCs/Casper%20Veln.md) — proprietor
+- [Casper Veln](../../NPCs/Casper%20Veln.html) — proprietor

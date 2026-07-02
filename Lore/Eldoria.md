@@ -7,7 +7,7 @@ title: Eldoria
 *The continent.*
 
 - **Western Eldoria** — old money, magic, scholars. Major city: **Valoria**.
-- **Eastern Eldoria** — the [Dustlands](The%20Dustlands.md), your home. Industry, trade, hard work.
+- **Eastern Eldoria** — the [Dustlands](The%20Dustlands.html), your home. Industry, trade, hard work.
 - Between them: **The Grayvein Mountains** — the divide, source of ore and coal.
 
 ## The Children Gods

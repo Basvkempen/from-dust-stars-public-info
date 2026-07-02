@@ -4,7 +4,7 @@ title: The Dustlands
 
 # The Dustlands
 
-*Eastern Eldoria. Part of [Eldoria](Eldoria.md).*
+*Eastern Eldoria. Part of [Eldoria](Eldoria.html).*
 
 - Flat plains and badlands, rising into the Grayvein foothills.
 - **Duskmoor** — the major city. Fog-wrapped, three rivers meet. Seat of the Council of Veils.

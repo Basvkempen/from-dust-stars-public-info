@@ -10,6 +10,6 @@ title: Edrik Mourn
 
 *Goblin. Travelling trader.*
 
-Passes through Corholm regularly — a usual spot at [The Dusty Crossing](../Locations/Corholm/The%20Dusty%20Crossing.md), a stall at [Market Square](../Locations/Corholm/Market%20Square.md) on trade days. Sells tools, cloth, spices, and the occasional oddity. Cheerful, relentless, impossible to shake.
+Passes through Corholm regularly — a usual spot at [The Dusty Crossing](../Locations/Corholm/The%20Dusty%20Crossing.html), a stall at [Market Square](../Locations/Corholm/Market%20Square.html) on trade days. Sells tools, cloth, spices, and the occasional oddity. Cheerful, relentless, impossible to shake.
 
 </div>
