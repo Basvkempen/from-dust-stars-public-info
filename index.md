@@ -1,17 +1,17 @@
 ---
 title: Home
 ---
+
 # From Dust to Stars
 
-*A player's guide to the world of Eldoria and the campaign so far.*
+*What the party knows.*
 
----
+## Eldoria
+- [Overview](Lore/Eldoria.md)
 
-## The World
-
-- [Eldoria](Lore/Eldoria.md) — the continent, the gods, the old faith
-- [The Dustlands](Lore/The%20Dustlands.md) — your home region, and the True Hand Trade Company
-
-## Places
-
-- [Corholm](Locations/Corholm.md) — the village
+## The Dustlands
+- [Overview](Lore/The%20Dustlands.md)
+  - [Corholm](Locations/Corholm/Corholm.md) — home
+  - [Duskmoor](Locations/Duskmoor.md)
+  - [Grimbarrow](Locations/Grimbarrow.md)
+  - [The Iron Serpent](Locations/The%20Iron%20Serpent.md)
